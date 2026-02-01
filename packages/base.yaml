@@ -30,10 +30,6 @@ esphome:
 preferences:
   flash_write_interval: 10min
 
-wifi:
-  ap:
-captive_portal:
-
 ota:
   - id: esphome_ota
     platform: esphome
