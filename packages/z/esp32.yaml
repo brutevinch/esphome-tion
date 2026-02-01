@@ -11,4 +11,4 @@ esp32:
 
 logger:
   logs:
-    esp-idf: INFO
+    esp-idf: WARN
